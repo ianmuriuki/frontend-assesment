@@ -32,6 +32,10 @@ A gold bar at the bottom with the Fourfront Management copyright text on the lef
 
 On **desktop**  the page splits into two columns, the profile card and members grid sit on the left, while the recommendation text and membership cards fill the right. Spacing is generous and the membership cards lift slightly on hover.
 
+<img width="1352" height="689" alt="image" src="https://github.com/user-attachments/assets/2197d8f2-5c6f-4f58-b4c7-19f5d4497c89" />
+
+
+
 On **tablet** the same two-column layout is used but with tighter padding. The navbar collapses to a hamburger toggle.
 
 On **mobile**  everything stacks into a single column from top to bottom, matching the original PDF mockup exactly.
